@@ -57,3 +57,7 @@ House Price Prediction/
 Feature engineering matters more than model choice.
 A simple Linear Regression with engineered features outperformed
 Random Forest on raw data by 27% in R² score.
+
+## Live Demo
+https://house-price-prediction-aaz3ta8edkwz2krzdpu7wn.streamlit.app/
+
